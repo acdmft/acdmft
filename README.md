@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Andrei</h1>
+<h2>Developer web fullstack junior</h2>
 - 📫 How to reach me **andrewsanser@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
