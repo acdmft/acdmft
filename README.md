@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Andrei</h1>
 <h2 align="center">Developer web fullstack junior</h2>
+<h2>Visit <a href="https://andrei-zheksi.vercel.app/">my personal site</a></h2>
 - 📫 How to reach me **andrewsanser@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
